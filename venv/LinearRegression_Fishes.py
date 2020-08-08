@@ -19,7 +19,7 @@ linear = LinearRegression()
 
 linear.fit(X_train, y_train)
 accuracy = linear.score(X_test, y_test)
-print(accuracy)
+
 
 # print('Coeficients:  ', *linear.coef_)
 # print('Intercepts: ', linear.intercept_)
@@ -27,3 +27,4 @@ print(accuracy)
 prediction = linear.predict(X_test)
 for i in range(len(prediction)):
     print(f'Predicted value: {prediction[i]:.2f} Kg --->Actual value: {y_test[i]} Kg')
+print(f'Accuracy -->  {accuracy}')
