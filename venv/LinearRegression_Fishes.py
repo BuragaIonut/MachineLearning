@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 import sklearn
+import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 
 data = pd.read_csv('Fish.csv')
@@ -27,3 +28,7 @@ prediction = linear.predict(X_test)
 for i in range(len(prediction)):
     print(f'Predicted value: {prediction[i]:.2f} Kg --->Actual value: {y_test[i]} Kg')
 print(f'Accuracy -->  {accuracy}')
+
+
+plt.plot(X_train, y_train,'o')
+plt.show()
