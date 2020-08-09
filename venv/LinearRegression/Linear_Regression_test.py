@@ -9,7 +9,7 @@ student_data = pd.DataFrame(data=students)
 print(student_data)
 x = student_data.hours
 y = student_data.test_results
-
+ 
 model = np.polyfit(x,y,1)
 print(model)
 plt.scatter(x,y)
