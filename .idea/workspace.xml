@@ -27,11 +27,14 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\burag\PycharmProjects\MachineLearning\venv\Air Quality" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\burag\PycharmProjects\MachineLearning\venv\LinearRegression" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.AirQuality">
+  <component name="RunManager" selected="Python.PredictSalary">
     <configuration name="AirQuality" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MachineLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -95,6 +98,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="PredictSalary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MachineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Predict Salary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Predict Salary/PredictSalary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Predict_Flisghts_Delay" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MachineLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,6 +142,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PredictSalary" />
         <item itemvalue="Python.AirQuality" />
         <item itemvalue="Python.Predict_Flisghts_Delay" />
         <item itemvalue="Python.Linear_Regression_test" />
@@ -147,38 +172,38 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="435" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1596978177318" />
-    <state width="1345" height="391" key="GridCell.Tab.0.bottom" timestamp="1596996008713">
+    <state width="1345" height="391" key="GridCell.Tab.0.bottom" timestamp="1597071281061">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="391" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1596996008713" />
-    <state width="1345" height="391" key="GridCell.Tab.0.center" timestamp="1596996008713">
+    <state width="1345" height="391" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1597071281061" />
+    <state width="1345" height="391" key="GridCell.Tab.0.center" timestamp="1597071281061">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="391" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1596996008713" />
-    <state width="1345" height="391" key="GridCell.Tab.0.left" timestamp="1596996008713">
+    <state width="1345" height="391" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1597071281061" />
+    <state width="1345" height="391" key="GridCell.Tab.0.left" timestamp="1597071281061">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="391" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1596996008713" />
-    <state width="1345" height="391" key="GridCell.Tab.0.right" timestamp="1596996008713">
+    <state width="1345" height="391" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1597071281061" />
+    <state width="1345" height="391" key="GridCell.Tab.0.right" timestamp="1597071281061">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="391" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1596996008713" />
-    <state width="1345" height="227" key="GridCell.Tab.1.bottom" timestamp="1596979737647">
+    <state width="1345" height="391" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1597071281061" />
+    <state width="1345" height="227" key="GridCell.Tab.1.bottom" timestamp="1597070666479">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1596979737647" />
-    <state width="1345" height="227" key="GridCell.Tab.1.center" timestamp="1596979737646">
+    <state width="1345" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1597070666479" />
+    <state width="1345" height="227" key="GridCell.Tab.1.center" timestamp="1597070666479">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1596979737646" />
-    <state width="1345" height="227" key="GridCell.Tab.1.left" timestamp="1596979737646">
+    <state width="1345" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1597070666479" />
+    <state width="1345" height="227" key="GridCell.Tab.1.left" timestamp="1597070666478">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1596979737646" />
-    <state width="1345" height="227" key="GridCell.Tab.1.right" timestamp="1596979737646">
+    <state width="1345" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1597070666478" />
+    <state width="1345" height="227" key="GridCell.Tab.1.right" timestamp="1597070666479">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1596979737646" />
+    <state width="1345" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1597070666479" />
     <state x="184" y="14" key="SettingsEditor" timestamp="1596978199767">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
