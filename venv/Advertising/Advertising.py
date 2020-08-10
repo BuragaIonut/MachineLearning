@@ -6,6 +6,9 @@ import matplotlib.pyplot as plt
 
 data = pd.read_csv('Advertising.csv')
 
+###############SIMPLE LINEAR REGRESSION########################
+
+
 # print(data.head())
 
 
@@ -39,6 +42,10 @@ data = pd.read_csv('Advertising.csv')
 #     linewidth=2
 # )
 # # plt.show()
+
+
+##############MULTIPLE LINEAR REGRESSION###################
+
 
 xs = data.drop(['sales','Unnamed: 0'], axis = 1)
 y = data['sales'].values.reshape(-1,1)
