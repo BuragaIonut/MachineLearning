@@ -23,19 +23,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Advertising" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Concrete_Strength" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\burag\PycharmProjects\MachineLearning\venv\Air Quality" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\burag\PycharmProjects\MachineLearning\venv\Concrete_Strength" />
       <recent name="C:\Users\burag\PycharmProjects\MachineLearning\venv\Advertising" />
       <recent name="C:\Users\burag\PycharmProjects\MachineLearning\venv\LinearRegression" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\burag\PycharmProjects\MachineLearning\venv\Air Quality" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.Advertising">
+  <component name="RunManager" selected="Python.Concrete_Strength_Linear_Regression">
     <configuration name="Advertising" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MachineLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -78,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Linear_Regression_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Concrete_Strength_Linear_Regression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MachineLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,11 +87,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Concrete_Strength" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Linear_Regression_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Concrete_Strength/Concrete_Strength_Linear_Regression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Concrete_Strength_Linear_Regression" />
         <item itemvalue="Python.Advertising" />
         <item itemvalue="Python.PredictSalary" />
         <item itemvalue="Python.AirQuality" />
         <item itemvalue="Python.Predict_Flisghts_Delay" />
-        <item itemvalue="Python.Linear_Regression_test" />
       </list>
     </recent_temporary>
   </component>
@@ -173,38 +174,38 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="435" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1596978177318" />
-    <state width="1345" height="391" key="GridCell.Tab.0.bottom" timestamp="1597103138896">
+    <state width="1345" height="391" key="GridCell.Tab.0.bottom" timestamp="1597134378550">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="391" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1597103138896" />
-    <state width="1345" height="391" key="GridCell.Tab.0.center" timestamp="1597103138896">
+    <state width="1345" height="391" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1597134378550" />
+    <state width="1345" height="391" key="GridCell.Tab.0.center" timestamp="1597134378550">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="391" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1597103138896" />
-    <state width="1345" height="391" key="GridCell.Tab.0.left" timestamp="1597103138896">
+    <state width="1345" height="391" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1597134378550" />
+    <state width="1345" height="391" key="GridCell.Tab.0.left" timestamp="1597134378550">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="391" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1597103138896" />
-    <state width="1345" height="391" key="GridCell.Tab.0.right" timestamp="1597103138896">
+    <state width="1345" height="391" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1597134378550" />
+    <state width="1345" height="391" key="GridCell.Tab.0.right" timestamp="1597134378550">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="391" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1597103138896" />
-    <state width="1345" height="227" key="GridCell.Tab.1.bottom" timestamp="1597070666479">
+    <state width="1345" height="391" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1597134378550" />
+    <state width="1345" height="227" key="GridCell.Tab.1.bottom" timestamp="1597133498471">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1597070666479" />
-    <state width="1345" height="227" key="GridCell.Tab.1.center" timestamp="1597070666479">
+    <state width="1345" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1597133498471" />
+    <state width="1345" height="227" key="GridCell.Tab.1.center" timestamp="1597133498471">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1597070666479" />
-    <state width="1345" height="227" key="GridCell.Tab.1.left" timestamp="1597070666478">
+    <state width="1345" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1597133498471" />
+    <state width="1345" height="227" key="GridCell.Tab.1.left" timestamp="1597133498470">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1597070666478" />
-    <state width="1345" height="227" key="GridCell.Tab.1.right" timestamp="1597070666479">
+    <state width="1345" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1597133498470" />
+    <state width="1345" height="227" key="GridCell.Tab.1.right" timestamp="1597133498471">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1597070666479" />
+    <state width="1345" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1597133498471" />
     <state x="184" y="14" key="SettingsEditor" timestamp="1596978199767">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
