@@ -24,10 +24,10 @@ predict = 'cls'
 x = list(zip(buying, maint, door, persons, lug_boot, safety))
 y = list(cls)
 
-x_train, x_test, y_train, y_test = sklearn.model_selection.train_test_split(x,y,test_size=0.1)
+x_train, x_test, y_train, y_test = sklearn.model_selection.train_test_split(x,y,test_size=0.1,random_state = 10)
 
 # print(x_train, y_train)
-k = int(input())
+k = int(input('How many neighbors ??'))
 model = KNeighborsClassifier(n_neighbors = k)
 
 model.fit(x_train, y_train)
@@ -44,3 +44,4 @@ for x in range(len(x_test)):
         print(f'Predicted: {predicted[x]}, Data: {x_test[x]}, Actual: {y_test[x]} Status: {names[y_test[x]]}')
     else:
         print(f'Predicted: {predicted[x]}, Data: {x_test[x]}, Actual: {y_test[x]} Status: {names[y_test[x]]} !!!!!!!!!!!')
+print(f'Model accuracy score is {model.score(x_test,y_test) *100:.2f} %')
