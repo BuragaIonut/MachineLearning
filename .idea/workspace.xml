@@ -38,8 +38,8 @@
       <recent name="C:\Users\burag\PycharmProjects\MachineLearning\venv\Air Quality" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.titanic">
-    <configuration name="Car_Evaluation (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Breast Cancer SVM">
+    <configuration name="Breast Cancer SVM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MachineLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -47,11 +47,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/KNN/Car Evaluation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/SVM" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/KNN/Car Evaluation/Car_Evaluation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/SVM/Breast Cancer SVM.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Breast Cancer SVM" />
         <item itemvalue="Python.titanic" />
         <item itemvalue="Python.scratch" />
         <item itemvalue="Python.Contraceptive Method Choice" />
         <item itemvalue="Python.Wisconsin_Breast_Cancer" />
-        <item itemvalue="Python.Car_Evaluation (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -183,22 +183,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1597569310875" />
-    <state width="1345" height="244" key="GridCell.Tab.0.bottom" timestamp="1597939097900">
+    <state width="1345" height="244" key="GridCell.Tab.0.bottom" timestamp="1598293473022">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="244" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1597939097900" />
-    <state width="1345" height="244" key="GridCell.Tab.0.center" timestamp="1597939097899">
+    <state width="1345" height="244" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1598293473022" />
+    <state width="1345" height="244" key="GridCell.Tab.0.center" timestamp="1598293473021">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="244" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1597939097899" />
-    <state width="1345" height="244" key="GridCell.Tab.0.left" timestamp="1597939097899">
+    <state width="1345" height="244" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1598293473021" />
+    <state width="1345" height="244" key="GridCell.Tab.0.left" timestamp="1598293473021">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="244" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1597939097899" />
-    <state width="1345" height="244" key="GridCell.Tab.0.right" timestamp="1597939097899">
+    <state width="1345" height="244" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1598293473021" />
+    <state width="1345" height="244" key="GridCell.Tab.0.right" timestamp="1598293473022">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="244" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1597939097899" />
+    <state width="1345" height="244" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1598293473022" />
     <state width="1345" height="227" key="GridCell.Tab.1.bottom" timestamp="1597265064971">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
