@@ -23,22 +23,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/KNN/Contraceptive Method Choice" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Data Visualization" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\burag\PycharmProjects\MachineLearning\venv\Air Quality" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\burag\PycharmProjects\MachineLearning\venv\Data Visualization" />
       <recent name="C:\Users\burag\PycharmProjects\MachineLearning\venv\KNN\Contraceptive Method Choice" />
       <recent name="C:\Users\burag\PycharmProjects\MachineLearning\venv\KNN\Dota2 Game Result" />
       <recent name="C:\Users\burag\PycharmProjects\MachineLearning\venv\KNN\Wisconsin Breast Cancer" />
       <recent name="C:\Users\burag\PycharmProjects\MachineLearning\venv\KNN\Car_Evaluation" />
-      <recent name="C:\Users\burag\PycharmProjects\MachineLearning\venv\Concrete_Strength" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\burag\PycharmProjects\MachineLearning\venv\Air Quality" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Contraceptive Method Choice">
+  <component name="RunManager" selected="Python.titanic">
     <configuration name="Car_Evaluation (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MachineLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -52,27 +52,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/KNN/Car Evaluation/Car_Evaluation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Car_Evaluation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MachineLearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/KNN/Car_Evaluation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/KNN/Car_Evaluation/Car_Evaluation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="numyp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MachineLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,11 +110,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="titanic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MachineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Data Visualization" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/numyp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Data Visualization/titanic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.titanic" />
+        <item itemvalue="Python.scratch" />
         <item itemvalue="Python.Contraceptive Method Choice" />
         <item itemvalue="Python.Wisconsin_Breast_Cancer" />
         <item itemvalue="Python.Car_Evaluation (1)" />
-        <item itemvalue="Python.numyp" />
-        <item itemvalue="Python.Car_Evaluation" />
       </list>
     </recent_temporary>
   </component>
@@ -183,22 +183,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1597569310875" />
-    <state width="1345" height="244" key="GridCell.Tab.0.bottom" timestamp="1597692009913">
+    <state width="1345" height="244" key="GridCell.Tab.0.bottom" timestamp="1597939097900">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="244" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1597692009913" />
-    <state width="1345" height="244" key="GridCell.Tab.0.center" timestamp="1597692009913">
+    <state width="1345" height="244" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1597939097900" />
+    <state width="1345" height="244" key="GridCell.Tab.0.center" timestamp="1597939097899">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="244" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1597692009913" />
-    <state width="1345" height="244" key="GridCell.Tab.0.left" timestamp="1597692009912">
+    <state width="1345" height="244" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1597939097899" />
+    <state width="1345" height="244" key="GridCell.Tab.0.left" timestamp="1597939097899">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="244" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1597692009912" />
-    <state width="1345" height="244" key="GridCell.Tab.0.right" timestamp="1597692009913">
+    <state width="1345" height="244" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1597939097899" />
+    <state width="1345" height="244" key="GridCell.Tab.0.right" timestamp="1597939097899">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="244" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1597692009913" />
+    <state width="1345" height="244" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1597939097899" />
     <state width="1345" height="227" key="GridCell.Tab.1.bottom" timestamp="1597265064971">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
