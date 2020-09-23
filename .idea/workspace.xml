@@ -38,7 +38,7 @@
       <recent name="C:\Users\burag\PycharmProjects\MachineLearning\venv\Air Quality" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Breast Cancer SVM">
+  <component name="RunManager" selected="Python.CPC (1)">
     <configuration name="Breast Cancer SVM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MachineLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -60,7 +60,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Contraceptive Method Choice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="CPC (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MachineLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,11 +68,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/KNN/Contraceptive Method Choice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/KNN/Contraceptive Method Choice/Contraceptive Method Choice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/CPC.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Wisconsin_Breast_Cancer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="CPC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MachineLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/KNN/Wisconsin Breast Cancer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/KNN/Wisconsin Breast Cancer/Wisconsin_Breast_Cancer.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\burag\PycharmProjects\MachineLearning\venv\CPC.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="setup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MachineLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/setup.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.CPC (1)" />
+        <item itemvalue="Python.setup" />
+        <item itemvalue="Python.CPC" />
         <item itemvalue="Python.Breast Cancer SVM" />
         <item itemvalue="Python.titanic" />
-        <item itemvalue="Python.scratch" />
-        <item itemvalue="Python.Contraceptive Method Choice" />
-        <item itemvalue="Python.Wisconsin_Breast_Cancer" />
       </list>
     </recent_temporary>
   </component>
@@ -183,38 +183,38 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1597569310875" />
-    <state width="1345" height="244" key="GridCell.Tab.0.bottom" timestamp="1598293473022">
+    <state width="1345" height="238" key="GridCell.Tab.0.bottom" timestamp="1600435555604">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="244" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1598293473022" />
-    <state width="1345" height="244" key="GridCell.Tab.0.center" timestamp="1598293473021">
+    <state width="1345" height="238" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1600435555604" />
+    <state width="1345" height="238" key="GridCell.Tab.0.center" timestamp="1600435555604">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="244" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1598293473021" />
-    <state width="1345" height="244" key="GridCell.Tab.0.left" timestamp="1598293473021">
+    <state width="1345" height="238" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1600435555604" />
+    <state width="1345" height="238" key="GridCell.Tab.0.left" timestamp="1600435555604">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="244" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1598293473021" />
-    <state width="1345" height="244" key="GridCell.Tab.0.right" timestamp="1598293473022">
+    <state width="1345" height="238" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1600435555604" />
+    <state width="1345" height="238" key="GridCell.Tab.0.right" timestamp="1600435555604">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="244" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1598293473022" />
-    <state width="1345" height="227" key="GridCell.Tab.1.bottom" timestamp="1597265064971">
+    <state width="1345" height="238" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1600435555604" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1600428423743">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1597265064971" />
-    <state width="1345" height="227" key="GridCell.Tab.1.center" timestamp="1597265064971">
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1600428423743" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1600428423743">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1597265064971" />
-    <state width="1345" height="227" key="GridCell.Tab.1.left" timestamp="1597265064971">
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1600428423743" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1600428423743">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1597265064971" />
-    <state width="1345" height="227" key="GridCell.Tab.1.right" timestamp="1597265064971">
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1600428423743" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1600428423743">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1597265064971" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1600428423743" />
     <state x="184" y="14" key="SettingsEditor" timestamp="1596978199767">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
