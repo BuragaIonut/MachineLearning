@@ -23,22 +23,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Data Visualization" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\burag\PycharmProjects\MachineLearning\venv\Air Quality" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\burag\PycharmProjects\MachineLearning\venv" />
       <recent name="C:\Users\burag\PycharmProjects\MachineLearning\venv\Data Visualization" />
       <recent name="C:\Users\burag\PycharmProjects\MachineLearning\venv\KNN\Contraceptive Method Choice" />
       <recent name="C:\Users\burag\PycharmProjects\MachineLearning\venv\KNN\Dota2 Game Result" />
       <recent name="C:\Users\burag\PycharmProjects\MachineLearning\venv\KNN\Wisconsin Breast Cancer" />
-      <recent name="C:\Users\burag\PycharmProjects\MachineLearning\venv\KNN\Car_Evaluation" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\burag\PycharmProjects\MachineLearning\venv\Air Quality" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.CPC (1)">
+  <component name="RunManager" selected="Python.automatization">
     <configuration name="Breast Cancer SVM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MachineLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,6 +102,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="automatization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MachineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/automatization.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="setup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MachineLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,34 +144,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="titanic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MachineLearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Data Visualization" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Data Visualization/titanic.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.automatization" />
         <item itemvalue="Python.CPC (1)" />
         <item itemvalue="Python.setup" />
         <item itemvalue="Python.CPC" />
         <item itemvalue="Python.Breast Cancer SVM" />
-        <item itemvalue="Python.titanic" />
       </list>
     </recent_temporary>
   </component>
@@ -183,38 +183,38 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1600961739981" />
-    <state width="1345" height="238" key="GridCell.Tab.0.bottom" timestamp="1600961744994">
+    <state width="1345" height="238" key="GridCell.Tab.0.bottom" timestamp="1603445075861">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="238" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1600961744994" />
-    <state width="1345" height="238" key="GridCell.Tab.0.center" timestamp="1600961744993">
+    <state width="1345" height="238" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1603445075861" />
+    <state width="1345" height="238" key="GridCell.Tab.0.center" timestamp="1603445075861">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="238" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1600961744993" />
-    <state width="1345" height="238" key="GridCell.Tab.0.left" timestamp="1600961744993">
+    <state width="1345" height="238" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1603445075861" />
+    <state width="1345" height="238" key="GridCell.Tab.0.left" timestamp="1603445075861">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="238" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1600961744993" />
-    <state width="1345" height="238" key="GridCell.Tab.0.right" timestamp="1600961744993">
+    <state width="1345" height="238" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1603445075861" />
+    <state width="1345" height="238" key="GridCell.Tab.0.right" timestamp="1603445075861">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="238" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1600961744993" />
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1600428423743">
+    <state width="1345" height="238" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1603445075861" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1603418596425">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1600428423743" />
-    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1600428423743">
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1603418596425" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1603418596425">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1600428423743" />
-    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1600428423743">
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1603418596425" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1603418596425">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1600428423743" />
-    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1600428423743">
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1603418596425" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1603418596425">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1600428423743" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1603418596425" />
     <state x="184" y="14" key="SettingsEditor" timestamp="1596978199767">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
